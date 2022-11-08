@@ -1,3 +1,4 @@
+//Para usar import y export, en el package.json meter "type"="module"
 const myWebAdress = "faztweb.com" //puedo guardar cualquier cosa.
 const myNumber = 30
 const myArray = [10,20,30]
